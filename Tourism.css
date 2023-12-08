@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-main-backgroun-section {
+    background-image: url("https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_1280.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.home-card-section {
+    background-color: white;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.home-card-headline {
+    color: #120d1a;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.home-card-description {
+    color: black;
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+.place-selection-section {
+    background-image: url("https://cdn.pixabay.com/photo/2014/08/01/00/08/pier-407252_960_720.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.place-selcetion-card-section {
+    background-color: white;
+    border-radius: 10px;
+    margin: 25px;
+
+}
+
+.view-main-section {
+    background-image: url("https://cdn.pixabay.com/photo/2014/08/01/00/08/pier-407252_960_720.jpg");
+    background-size: cover;
+
+}
+
+.view-section-card-section {
+    background-color: white;
+}
+
+.footer-section {
+    background-color: white;
+    padding: 5px;
+}
+
+.footer-headline {
+    font-size: 10px;
+    font-family: "Roboto";
+    color: black;
+}
